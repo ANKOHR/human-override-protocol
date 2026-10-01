@@ -1,0 +1,6 @@
+Human Override Protocol local build complete
+Test count: 31 passed (pytest).
+Local implementation commit hash: 149e69725bfec2a4936e0d2a8bf8a56ca494164d
+Measured installed CLI end-to-end fixture demo: 0.846 seconds.
+
+Built a Python hop CLI with synthetic fixtures, run, Markdown/JSON reports, schema validation and request inspection. Its pure core computes eligibility from operator decisions, exact scope and role matching, independent approval and expiry rules. The 200-record labelled synthetic fixture reconciles exactly to planted counts and amounts, with adversarial tests and explicit provenance. README, acceptance evidence and KOML lessons document the input contract, limits and two-week improvement hook. The final product verdict is pending real-use evidence. Publishing was not performed. This file records the implementation commit; the subsequent evidence-only commit adds this completion record.
