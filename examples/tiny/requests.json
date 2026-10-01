@@ -1,0 +1,77 @@
+{
+  "synthetic": true,
+  "source": "Labelled synthetic intervention drill",
+  "as_of": "2026-09-30",
+  "requests": [
+    {
+      "id": "HOP-000",
+      "requester": "requester",
+      "operator": "operator",
+      "role": "sre",
+      "required_role": "sre",
+      "scope": "restart/service-a",
+      "approved_scope": "restart/service-a",
+      "created": "2026-09-01",
+      "expires": "2026-10-01",
+      "decision": "approve",
+      "reason": "Synthetic recovery drill",
+      "amount": 100
+    },
+    {
+      "id": "HOP-001",
+      "requester": "requester",
+      "operator": "operator",
+      "role": "sre",
+      "required_role": "sre",
+      "scope": "restart/service-a",
+      "approved_scope": "restart/service-a",
+      "created": "2026-09-01",
+      "expires": "2026-10-01",
+      "decision": "approve",
+      "reason": "Synthetic recovery drill",
+      "amount": 100
+    },
+    {
+      "id": "HOP-002",
+      "requester": "requester",
+      "operator": "operator",
+      "role": "sre",
+      "required_role": "sre",
+      "scope": "restart/service-a",
+      "approved_scope": "restart/service-a",
+      "created": "2026-09-01",
+      "expires": "2026-10-01",
+      "decision": "approve",
+      "reason": "Synthetic recovery drill",
+      "amount": 100
+    },
+    {
+      "id": "HOP-003",
+      "requester": "requester",
+      "operator": "operator",
+      "role": "sre",
+      "required_role": "sre",
+      "scope": "restart/service-a",
+      "approved_scope": "restart/service-a",
+      "created": "2026-09-01",
+      "expires": "2026-10-01",
+      "decision": "approve",
+      "reason": "Synthetic recovery drill",
+      "amount": 100
+    },
+    {
+      "id": "HOP-004",
+      "requester": "requester",
+      "operator": "operator",
+      "role": "sre",
+      "required_role": "sre",
+      "scope": "restart/service-a",
+      "approved_scope": "restart/service-a",
+      "created": "2026-09-01",
+      "expires": "2026-09-29",
+      "decision": "approve",
+      "reason": "Synthetic recovery drill",
+      "amount": 100
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.hop/
+demo/
+human-override-protocol-codex.log
+human-override-protocol-launch.py
+human-override-protocol-prompt.txt

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "human-override-protocol"
+version = "0.1.0"
+description = "Deterministic operator intervention eligibility gate"
+requires-python = ">=3.10"
+
+[project.scripts]
+hop = "human_override_protocol.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["human_override_protocol*"]
